@@ -1,1 +1,1 @@
-Watthanaphong Rungruang B6743406 summitting Exercise 1.
+Watthanaphong Rungruang B6743406 summitting Exercise.
