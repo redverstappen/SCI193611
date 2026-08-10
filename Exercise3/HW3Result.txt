@@ -1,0 +1,43 @@
+1. Breadth-First Tree Search
+Route : Arad → Sibiu → Fagaras → Bucharest → Urziceni → Vaslui
+Cost  : 677
+
+2. Depth-First Tree Search
+Route : Arad → Zerind → Oradea → Sibiu → Fagaras → Bucharest → Urziceni → Vaslui
+Cost  : 834
+
+3. Breadth-First Graph Search
+Route : Arad → Sibiu → Fagaras → Bucharest → Urziceni → Vaslui
+Cost  : 677
+
+4. Depth-First Graph Search
+Route : Arad → Sibiu → Fagaras → Bucharest → Urziceni → Vaslui
+Cost  : 677
+
+5. Best-First Graph Search
+Route : Arad → Sibiu → Rimnicu → Pitesti → Bucharest → Urziceni → Vaslui
+Cost  : 645
+
+6. Uniform-Cost Search
+Route : Arad → Sibiu → Rimnicu → Pitesti → Bucharest → Urziceni → Vaslui
+Cost  : 645
+
+7. Depth-Limited Search, limit=5
+Route : Arad → Sibiu → Fagaras → Bucharest → Urziceni → Vaslui
+Cost  : 677
+
+8. Iterative Deepening Search
+Route : Arad → Sibiu → Fagaras → Bucharest → Urziceni → Vaslui
+Cost  : 677
+
+9. Greedy Best-First Search
+Route : Arad → Sibiu → Fagaras → Bucharest → Urziceni → Vaslui
+Cost  : 677
+
+10. A* Search
+Route : Arad → Sibiu → Rimnicu → Pitesti → Bucharest → Urziceni → Vaslui
+Cost  : 645
+
+11. Recursive Best-First Search
+Route : Arad → Sibiu → Rimnicu → Pitesti → Bucharest → Urziceni → Vaslui
+Cost  : 645
