@@ -4,3 +4,4 @@ Watthanaphong Rungruang B6743406
 * summitting Exercise3. hw3.ipynb and HW3Result.txt
 * summitting Exercise4. HW4.ipynb
 * summitting Exercise5. HW5.ipynb
+* summitting Exercise6. probabilty.ipynb
